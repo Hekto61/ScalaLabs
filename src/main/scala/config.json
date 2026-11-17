@@ -1,9 +1,9 @@
 {
   "workDirectory": "transfer-work",
   "logFile": "transfer-manager.log",
-  "defaultPartSize": 2147483648,
-  "minimumPartSize": 67108864,
-  "reservedSpacePerMedia": 524288000,
+  "defaultPartSize": 52428800,
+  "minimumPartSize": 2097152,
+  "reservedSpacePerMedia": 5242880,
   "verifyAfterWrite": true,
   "checkSumAlgorithm": "SHA-256",
   "overrideMode": "ask",

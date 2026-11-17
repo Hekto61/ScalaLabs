@@ -4,29 +4,33 @@
       "id": 1,
       "mark": "BLUE-USB",
       "path": "usb1",
-      "volume": 2147483648,
-      "isProtected": false
+      "volume": 1073741824,
+      "isProtected": false,
+      "maxAllowedOverride": -1
     },
     {
       "id": 2,
       "mark": "OLD-FLASH",
       "path": "usb2",
-      "volume": 1073741824,
-      "isProtected": false
+      "volume": 17825792,
+      "isProtected": false,
+      "maxAllowedOverride": -1
     },
     {
       "id": 3,
       "mark": "BACKUP-SD",
       "path": "usb3",
-      "volume": 4294967296,
-      "isProtected": false
+      "volume": 3221225472,
+      "isProtected": false,
+      "maxAllowedOverride": -1
     },
     {
       "id": 4,
       "mark": "RED-USB",
       "path": "usb4",
       "volume": 17179869184,
-      "isProtected": false
+      "isProtected": false,
+      "maxAllowedOverride": -1
     }
   ]
 }
